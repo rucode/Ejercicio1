@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio1_Android</string>
+    <string name="titulo">Bienvenido</string>
+    <string name="textButton">Entrar</string>
+</resources>
